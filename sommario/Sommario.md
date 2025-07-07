@@ -15,12 +15,6 @@
 - [rsh Service Detection](../report/vulnerabilities.md#7-rsh-attivo)
 - [Samba Badlock Vulnerability](../report/vulnerabilities.md#8-samba-badlock-vulnerability)
 
-## 📁 Struttura della Repository
-- [Cartelle e File](../README.md#-struttura-del-repository)
-
-## 📷 Screenshot ed Evidenze
-- [Screenshot Vari](../report/screenshots/README.md)
-
 ## 📌 Conclusioni e Raccomandazioni
 - [Conclusioni](../README.md#-conclusioni-e-raccomandazioni)
 - [Note Finali](../README.md#-note-finali)
