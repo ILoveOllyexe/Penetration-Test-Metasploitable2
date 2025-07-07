@@ -50,7 +50,7 @@ Questo progetto documenta un'attività di penetration testing condotta su Metasp
 - shell: whoami, netstat -anp, ps aux, cat /etc/passwd
 - Enumerazione file sensibili, utenti, servizi schedulati, crontab
 
-### 5. 🧾 Raccolta Evidenze & Report
+### 5. Raccolta Evidenze & Report
 - Ogni fase è stata salvata come output testuale o screenshot
 - Cartelle organizzate per tool, host, vulnerabilità
 - Report redatto in Markdown e convertibile in PDF con pandoc
